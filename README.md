@@ -2,7 +2,7 @@
 
 ## **O.G. Rust Series™ — Rust as it really was**
 
-### 💯**%** **True Rust** &middot; Accept No Substitutes 💯**%**
+### 💯% True Rust &middot; Accept No Substitutes 💯%
 
 `og_fmt` brings back the legendary `fmt!` macro! [Removed from Rust in
 2013](https://github.com/rust-lang/rust/pull/8637#issuecomment-23191833),
@@ -40,5 +40,3 @@ favorites #OGRust
 ## License
 
 MIT / Apache-2.0
-
-Rust Libs Team, you villains — bring O.G. `fmt!` back home to std.

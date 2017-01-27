@@ -1,6 +1,6 @@
 [package]
 name = "og_fmt"
-version = "1.0.1"
+version = "1.0.2"
 authors = ["Brian Anderson <banderson@mozilla.com>"]
 documentation = "https://docs.rs/og_fmt"
 repository = "https://github.com/brson/og_fmt"
