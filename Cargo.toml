@@ -1,0 +1,9 @@
+[package]
+name = "og_fmt"
+version = "1.0.0"
+authors = ["Brian Anderson <banderson@mozilla.com>"]
+documentation = "https://docs.rs/og_fmt"
+repository = "https://github.com/brson/og_fmt"
+description = "The original `fmt!`"
+license = "MIT/Apache-2.0"
+keywords = ["fmt", "format"]
