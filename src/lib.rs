@@ -21,7 +21,8 @@
 //! extern crate og_fmt;
 //! 
 //! fn main() {
-//!     fmt!("Experience the power of {}", "fmt!");
+//!     let msg = fmt!("Original fmt! is the #{} fmt!", 1);
+//!     println!("{}", msg);
 //! }
 //! ```
 //! 
