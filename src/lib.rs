@@ -32,7 +32,7 @@
 //! original design, one crate at a time. O.G. Rust Series™ crates are
 //! derived from the original source code of historical revisions of the
 //! Rust compiler, and provide the most authentic Rust experience
-//! available today. Accept no substitutes.
+//! available today.
 //! 
 //! Enjoy other fine crates in O.G Rust Series™ and share your
 //! favorites #OGRust
